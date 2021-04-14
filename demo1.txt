@@ -1,2 +1,9 @@
 第一个demo文件用来做测试git add 和 git commit命令
-为第三次commit做记录
+为第五次commit做记录
+
+git clone +  repo url
+git add .
+git commit + 文件名 + -m"描述提示信息"
+git log
+git reflog
+git reset --hard + 版本号
