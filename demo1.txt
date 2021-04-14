@@ -7,3 +7,13 @@ git commit + 文件名 + -m"描述提示信息"
 git log
 git reflog
 git reset --hard + 版本号
+
+该文件为了测试git branch 功能
+git branch
+git branch -a
+git checkout + 分支名
+git checkout -b + 分支名
+git branch --set-upstream-to=origin/远程分支名 本地分支名
+git pull 拉取远程分支
+git push origin master
+git push origin/远程分支名 本地分支名
